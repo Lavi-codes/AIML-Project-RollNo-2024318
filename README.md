@@ -51,22 +51,25 @@ These factors are based on absolute Logistic Regression coefficients and indicat
 
 ## Screenshots
 
-1. Target Distribution
+## Screenshots
 
+### 1. Target Distribution
+![Target Distribution](Images/Heart_disease_target.png)
 
-2. Gender Distribution
+### 2. Gender Distribution
+![Gender Distribution](Images/gender_distribution.png)
 
+### 3. Gender Distribution by Percentage
+![Gender Distribution Percentage](Images/gender_distribution_percentage.png)
 
-3. Gender Distribution by Percentage
+### 4. Chest Pain Type
+![Chest Pain Type](Images/chest_pain_type.png)
 
+### 5. Correlation Heatmap
+![Correlation Heatmap](Images/heatmap.png)
 
-4. Chest Pain Type
-
-
-5. Correlation Heatmap
-
-
-6. Maximum Heart Rate
+### 6. Maximum Heart Rate
+![Maximum Heart Rate](Images/max_heart_rate.png)
 
 
 ## Future Improvements
