@@ -51,8 +51,6 @@ These factors are based on absolute Logistic Regression coefficients and indicat
 
 ## Screenshots
 
-## Screenshots
-
 ### 1. Target Distribution
 ![Target Distribution](Images/Heart_disease_target.png)
 
