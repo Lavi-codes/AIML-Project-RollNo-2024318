@@ -51,7 +51,23 @@ These factors are based on absolute Logistic Regression coefficients and indicat
 
 ## Screenshots
 
-Add your uploaded screenshot references here.
+1. Target Distribution
+
+
+2. Gender Distribution
+
+
+3. Gender Distribution by Percentage
+
+
+4. Chest Pain Type
+
+
+5. Correlation Heatmap
+
+
+6. Maximum Heart Rate
+
 
 ## Future Improvements
 
